@@ -1,0 +1,8 @@
+.resource/**
+.vscode/**
+.gitignore
+*.bat
+*.ps1
+*.tmp
+*.afdesign
+*.markdown

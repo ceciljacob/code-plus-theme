@@ -1,51 +1,51 @@
 {
-    "name": "code-plus-theme",
-    "displayName": "Theme",
-    "publisher": "ceciljacob",
-    "version": "1.0.0",
-    "license": "CC-BY-4.0",
-    "description": "This is a code editor theme with extensive syntax highlight and workbench color customization implemented.",
-    "icon": "Icon.png",
-    "engines": {
-        "vscode": "^1.56.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/ceciljacob/code-plus-theme"
-    },
-    "bugs": {
-        "url": "https://github.com/ceciljacob/code-plus-theme/issues"
-    },
-    "qna": "https://github.com/ceciljacob/code-plus-theme/issues",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Theme + Dark Blue Theme",
-                "uiTheme": "vs-dark",
-                "path": "./theme/theme-dark-blue-color-theme.json"
-            },
-            {
-                "label": "Theme + Dark Brown Theme",
-                "uiTheme": "vs-dark",
-                "path": "./theme/theme-dark-brown-color-theme.json"
-            }
-        ]
-    },
-    "categories": [
-        "Themes",
-        "Other"
-    ],
-    "keywords": [
-        "Theme",
-        "Dark Theme",
-        "Customize",
-        "Professional"
-    ],
-    "galleryBanner": {
-        "color": "#081620",
-        "theme": "dark"
-    },
-    "author": {
-        "name": "Cecil Jacob"
-    }
+  "name": "code-plus-theme",
+  "displayName": "Theme +",
+  "publisher": "ceciljacob",
+  "version": "1.28.0",
+  "license": "CC-BY-4.0",
+  "description": "This is a code editor theme with extensive syntax highlight and workbench color customization implemented.",
+  "icon": "Icon.png",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ceciljacob/code-plus-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ceciljacob/code-plus-theme/issues"
+  },
+  "qna": "https://github.com/ceciljacob/code-plus-theme/issues",
+  "contributes": {
+    "themes": [
+      {
+      "label": "Theme + Dark Blue Theme",
+      "uiTheme": "vs-dark",
+      "path": "./theme/theme-dark-blue-color-theme.json"
+      },
+      {
+      "label": "Theme + Dark Brown Theme",
+      "uiTheme": "vs-dark",
+      "path": "./theme/theme-dark-brown-color-theme.json"
+      }
+    ]
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "customization",
+    "professional"
+  ],
+  "galleryBanner": {
+    "color": "#081620",
+    "theme": "dark"
+  },
+  "author": {
+    "name": "Cecil Jacob"
+  }
 }

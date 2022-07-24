@@ -1,24 +1,27 @@
 # Theme +
 
-This is a code editor theme with extensive syntax highlight and workbench color customization implemented.
+This is a code editor theme with extensive syntax highlight and workbench color customization implemented. The entire color palette has been selected with a focus on offering usability over an extended period.
 
 <br>
+
+> __ChangeLog__
+> - Support for the new in-built bracket colorization feature.
+> - Improved contrast for all selected and similar results of a search operation.
+
 <br>
 
 ## Theme Screenshot
 
 ### Theme + Dark Blue Theme
 
-![Theme + Dark Blue Theme](./image/theme-dark-blue-theme-screenshot.png)
+![Theme + Dark Blue Theme](image/theme-dark-blue-theme-screenshot.png)
 
-<br>
 <br>
 
 ### Theme + Dark Brown Theme
 
-![Theme + Dark Brown Theme](./image/theme-dark-brown-theme-screenshot.png)
+![Theme + Dark Brown Theme](image/theme-dark-brown-theme-screenshot.png)
 
-<br>
 <br>
 
 ## Installation
@@ -45,7 +48,6 @@ Please share this theme extension with others that might find it useful.<br>
 __Share To :__ &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://marketplace.visualstudio.com/items?itemname=ceciljacob.code-plus-theme) &nbsp;&nbsp;|&nbsp;&nbsp; [Twitter](https://twitter.com/intent/tweet?url=https://marketplace.visualstudio.com/items?itemname=ceciljacob.code-plus-theme) &nbsp;&nbsp;|&nbsp;&nbsp; [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://marketplace.visualstudio.com/items?itemname=ceciljacob.code-plus-theme)
 
 <br>
-<br>
 
 ## Feedback
 
@@ -54,23 +56,24 @@ Please report issues related to this theme on the repository page.<br>
 [GitHub Repository](https://github.com/ceciljacob/code-plus-theme/issues)
 
 <br>
-<br>
 
-## Developer Information
+## Author Information
 
-Please visit the developer web site for additional information.<br>
-
-[www.ceciljacob.com](https://www.ceciljacob.com)
-
-<br>
+The author of this extension also posts other technology related information.<br>
 
 __Follow On :__ &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/ceciljacob) &nbsp;&nbsp;|&nbsp;&nbsp; [Twitter](https://www.twitter.com/ceciljacob)
+
+<br>
+
+The associated web site also contains further resources that might be of use.<br>
+
+__Web Site :__ &nbsp;&nbsp; [Cecil Jacob](https://www.ceciljacob.com) - ( `https://www.ceciljacob.com` )
 
 <br>
 <hr>
 <br>
 
-## License
+## License & Disclaimer
 
 __Creative Commons Attribution 4.0 International License__
 
@@ -146,5 +149,4 @@ Custom Setting - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/i
 
 Copyright &copy; Cecil Jacob
 
-<br>
 <br>
